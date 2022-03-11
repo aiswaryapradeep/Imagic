@@ -6,7 +6,7 @@ This project is a command line tool that made using python and typer. It is used
 
 ## Team members
 1.Aiswarya Pradeep [https://github.com/aiswaryapradeep]
-2.Haripriya S[]
+2.Haripriya S[https://github.com/Haripriya7012]
 
 
 ## Team Id
@@ -14,6 +14,8 @@ Python / 254
 
 
 ## Link to product walkthrough
+
+https://loom.com/share/96c685df72614ed3938160070f1c8b19
 
 ## How it Works ?
 1.for viewing the help argument use the command-
