@@ -80,13 +80,11 @@ def convert(files: List[Path] = typer.Argument(..., help="The path of image in d
             j = str(my_list[0])
             img = Image.open(path)
             if required_type == 'jpg': 
-                img.show()
                 rgb = img.convert('RGB')
                 rgb.show()
                 rgb.save(pathname2+'.jpg')
                 print("resized file  "+j+": "+pathname2+'.jpg')
-            elif required_type == 'jpeg':
-                img.show()
+            elif required_type == 'jpeg' :
                 rgb = img.convert('RGB')
                 rgb.show()
                 rgb.save(pathname2+'.jpeg')
