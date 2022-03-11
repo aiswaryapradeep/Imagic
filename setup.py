@@ -14,7 +14,7 @@ setup(
     description='image resizer converter cli',
     long_description=readme,
     author='Aiswarya Pradeep',
-    url='',
+    url='https://github.com/aiswaryapradeep/Imagic',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
